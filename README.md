@@ -23,6 +23,27 @@ Small dog (per year)
   - collar
 **Total**: $1650 / yr
 
+#### Common Dog Breeds
+* Newfoundland (about $1,500)
+* Samoyed (about $1,500)
+* Saint Bernard (about $1,500)
+* Bedlington Terrier (about $1,500)
+* Irish Wolfhound (about $1,900)
+* Black Russian Terrier (about $2,000)
+* Landseer (about $2,000)
+* Cane Corso ($1,500–$4,000)
+* Portuguese Water Dog (about $2,500)
+* English Bulldog (about $3,000)
+* Akita (about $3,500)
+* Dogo Argentino (about $3,900)
+* Chinese Crested Hairless (about $5,000)
+* Canadian Eskimo Dog ($1,500–$6,000)
+* German Shepherd ($800–$6,500)
+* Pharaoh Hound ($3,000–$7,000)
+* Rottweiler ($1,500–$7,000)
+* Lowchen ($3,000–$7,000)
+* Chow Chow ($3,000–$9,000)
+* Tibetan Mastiff ($5,000–$9,000)
 ___
 #### Preparation Checklist [[Video](https://www.youtube.com/watch?v=---jcia5ufM)]
 * Find out what dog had been eating. Gradually change to anything else.
