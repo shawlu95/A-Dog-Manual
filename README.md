@@ -44,6 +44,7 @@ Small dog (per year)
 * Lowchen ($3,000–$7,000)
 * Chow Chow ($3,000–$9,000)
 * Tibetan Mastiff ($5,000–$9,000)
+
 ___
 #### Preparation Checklist [[Video](https://www.youtube.com/watch?v=---jcia5ufM)]
 * Find out what dog had been eating. Gradually change to anything else.
@@ -58,7 +59,25 @@ ___
   - Training toys: e.g. squeaky toy; for training purpose; no free access.
 
 ![alt-text](assets/everything_you_need_to_be_prepared_for_your_new_puppy_1.gif)
-  ___
+
+___
+#### When to Start Training [[Video](https://www.youtube.com/watch?v=LOEXAn9Hj20)]
+* As early as 10 week.
+* Build trust: if dog is afraid of stairs, train with it with treat `[2:20].`
+
+![alt-text](assets/when_should_you_start_training_your_dog_1.gif)
+
+* Play with dog. Build bonds.
+  - Best game: (1) chase (2) tug of war `[4:16]`
+
+![alt-text](assets/when_should_you_start_training_your_dog_2.gif)
+
+* Use treats to build interest in sustained interaction `[5:30]`.
+  - Hide food under cup.
+
+![alt-text](assets/when_should_you_start_training_your_dog_3.gif)
+
+___
 #### Potty Train [[Video](https://www.youtube.com/watch?v=7vOXWCewEYM&t=19s)]
 * Generalize entire house to be its home.
 * Slowly give dog access to the rest of the entire house under supervision.
