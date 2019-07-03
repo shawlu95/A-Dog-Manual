@@ -3,7 +3,9 @@
 #### Table of Content
 * Cost estimates [[Link](#cost-estimate)]
 * Preparation Checklist [[Link](#Preparation-Checklist)]
+* When to Start Training [[Link](#When-to-Start-Training)]
 * Potty Train [[Link](#Potty-Train)]
+* Train Dog not to Bark [[Link](#Train-Dog-not-to-Bark)]
 
 ___
 #### Cost Estimate
@@ -111,3 +113,10 @@ Train dog to remain silent when owner is away.
 * Exercise dog rigorously in the morning before going to work.
 * When dog barks when owner looks away, do not reward.
 * Have plenty of chew toys.
+
+#### Social [[Link](https://www.youtube.com/watch?v=0VfM_8L7FwU)]
+* Encourage socializing with stranger.
+  - Give treat to stranger.
+  - If dog is reluctant, ask stranger to throw.
+* Takes a year to train with treat, for dog to generalize behavior without treat.
+  - Toys and treats in variety of situations.
