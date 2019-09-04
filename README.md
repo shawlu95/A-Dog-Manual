@@ -120,3 +120,10 @@ Train dog to remain silent when owner is away.
   - If dog is reluctant, ask stranger to throw.
 * Takes a year to train with treat, for dog to generalize behavior without treat.
   - Toys and treats in variety of situations.
+  
+#### Mistakes
+* Roam freely
+* Leave alone
+* Feed carbs: rice, pees, sweat potatos 
+* Reward poor behavior because it's cute (not cute when grows up)
+* Leave outside unsupervised 
