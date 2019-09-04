@@ -1,3 +1,8 @@
+### First Night
+* Do not feed water & food 30 minutes before bed
+* Waste energy totally
+* Do not nap before night
+
 ### Day 1 & 2
 Lease pressure
 * Teach to turn things off
