@@ -73,3 +73,13 @@ ___
 #### Dumbbell
 * train dog to bring it back
 * avoid flipping behavior
+
+___
+### Day 9
+Suppose dog walks on left. If dog is behind, turn left. If dog is too fast, turn right.
+
+### Day 10: Name call
+When dog runs away, call name. Reward when immediately comes back.
+* Do not repeatedly call name
+* Use distraction 
+* Use treat (higher value than food)
